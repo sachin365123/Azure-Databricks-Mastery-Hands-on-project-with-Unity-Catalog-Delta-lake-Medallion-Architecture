@@ -1,0 +1,14 @@
+Step 1: Create Storage account and directories
+Step 2: Create Azure Databricks Resource
+Step 3: Access Connector for Azure Databricks
+Step 4: Add role assignment in Access Control(IAM)
+Step 5: Create Metastore from Databricks Notebook
+Step 6: create a dev-catalog
+Step 7: Create a Compute Resource
+Step 8: Create External Storages
+Step 9: Part 0 Medallion Architecture Project overview
+Step 10: Part 1 Project set up Creating bronze Tables Dynamically
+Step 11: Load to Bronze
+Step 12: Silver Traffic Transformations
+Step 13: To re-use common functions and variables
+Step 14: Silver - Roads Transformation
